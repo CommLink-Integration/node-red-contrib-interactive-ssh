@@ -18,7 +18,8 @@
   "author": "Hunter Grayson",
   "license": "MIT",
   "dependencies": {
-    "ssh2": "^0.8.9"
+    "ssh-config": "^4.3.0",
+    "ssh2": "^1.14.0"
   },
   "bugs": {
     "url": "https://github.com/CommLink-Integration/node-red-contrib-interactive-ssh/issues"
